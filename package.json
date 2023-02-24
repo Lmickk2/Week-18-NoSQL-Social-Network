@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  },
+  "name": "week-18-nsql-social-network",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lmickk2/Week-18-NSQL-Social-Network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lmickk2/Week-18-NSQL-Social-Network/issues"
+  },
+  "homepage": "https://github.com/Lmickk2/Week-18-NSQL-Social-Network#readme"
+}
